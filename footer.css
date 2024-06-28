@@ -1,0 +1,69 @@
+.footer {
+    width: 100%;
+    height: 50vh;
+    background-color: #bde5fe;
+}
+
+.footer .content-header {
+    display: inline-table;
+    width: 50%;
+    height: 125px;
+    margin-top: 7%;
+    margin-left: -10%;
+}
+
+.footer .logo {
+    width: 50%;
+    height: 50%;
+    margin: 0 15%;
+    margin-top: 11%;
+}
+
+.footer .content-header .address p {
+    font-size: 2.5rem;
+    color: #02702a;
+}
+
+.footer .content-header .address img {
+    width: 8%;
+    height: 8%;
+}
+
+.footer .content-header .number p {
+    font-size: 2.5rem;
+    color: #02702a;
+}
+
+.footer .content-header .number img {
+    width: 8%;
+    height: 8%;
+}
+
+.footer .content-header .email p {
+    font-size: 2.5rem;
+    color: #02702a;
+}
+
+.footer .content-header .email img {
+    width: 8%;
+    height: 8%;
+}
+
+.footer .content {
+    border: 2px solid black;
+    width: 90%;
+    height: 120px;
+    margin-left: -2%;
+}
+
+.footer .content h2 {
+    color: #090164;
+    font-size: 2.8em;
+    text-align: center;
+}
+
+.footer .content p {
+    color: #04a03d;
+    font-size: 2rem;
+    text-align: center;
+}

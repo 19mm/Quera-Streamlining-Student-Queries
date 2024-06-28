@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+body {
+    background-color: #f2faff;
+}
+
+.container2 {
+    width: 100%;
+    height: 100vh;
+}
+
+.content2 .content-header {
+    margin-top: 2%;
+    font-size: 3rem;
+    color: #090164;
+    font-weight: bold;
+}
+
+.container2 .content2 .member h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1%;
+    color: #147337;
+    margin-left: 22%;
+}
+
+.container2 .content2 .member .card1 {
+    width: 910px;
+    height: 125px;
+    margin-bottom: 4%;
+    border-radius: 35px;
+    box-shadow: 6px 6px 10px -2px rgba(0, 0, 0, 0.7), -8px -8px 12px -2px rgba(255, 255, 255, 1);
+}
+
+.container2 .content2 .member .card1 .img {
+    width: 120px;
+    margin: 7% 25%;
+    border-radius: 100%;
+}
+
+.container2 .content2 .member .card1 p {
+    width: 400px;
+    height: auto;
+    border-radius: 2px solid black;
+    margin-left: 10%;
+    margin-top: 0%;
+    font-size: 1.7rem;
+    line-height: 150%;
+}
+
+.container2 .content2 .member .card1 .arrow {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-left: 20rem;
+    margin-top: 0%;
+}
+
+.container2 .content2 .member .card1:hover {
+    transform: translateY(-10px);
+}
+
+.container2 .content2 .member .card2 {
+    width: 910px;
+    height: 125px;
+    margin-bottom: 4%;
+    border-radius: 35px;
+    box-shadow: 6px 6px 10px -2px rgba(0, 0, 0, 0.7), -8px -8px 12px -2px rgba(255, 255, 255, 1);
+}
+
+.container2 .content2 .member .card2 .img {
+    width: 120px;
+    margin: 7% 25%;
+    border-radius: 100%;
+}
+
+.container2 .content2 .member .card2 p {
+    width: 400px;
+    height: auto;
+    border-radius: 2px solid black;
+    margin-left: 10%;
+    margin-top: 0%;
+    font-size: 1.7rem;
+    line-height: 150%;
+}
+
+.container2 .content2 .member .card2 .arrow {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-left: 20rem;
+    margin-top: 0%;
+}
+
+.container2 .content2 .member .card2:hover {
+    transform: translateY(-10px);
+}
+
+.container2 .content2 .member .card3 {
+    width: 910px;
+    height: 125px;
+    margin-bottom: 4%;
+    border-radius: 35px;
+    box-shadow: 6px 6px 10px -2px rgba(0, 0, 0, 0.7), -8px -8px 12px -2px rgba(255, 255, 255, 1);
+}
+
+.container2 .content2 .member .card3 .img {
+    width: 120px;
+    margin: 7% 25%;
+    border-radius: 100%;
+}
+
+.container2 .content2 .member .card3 p {
+    width: 400px;
+    height: auto;
+    border-radius: 2px solid black;
+    margin-left: 10%;
+    margin-top: 0%;
+    font-size: 1.7rem;
+    line-height: 150%;
+}
+
+.container2 .content2 .member .card3 .arrow {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-left: 20rem;
+    margin-top: 0%;
+}
+
+.container2 .content2 .member .card3:hover {
+    transform: translateY(-10px);
+}
+
+.container2 .content2 .member .card4 {
+    width: 910px;
+    height: 125px;
+    margin-bottom: 4%;
+    border-radius: 35px;
+    box-shadow: 6px 6px 10px -2px rgba(0, 0, 0, 0.7), -8px -8px 12px -2px rgba(255, 255, 255, 1);
+}
+
+.container2 .content2 .member .card4 .img {
+    width: 120px;
+    margin: 7% 25%;
+    border-radius: 100%;
+}
+
+.container2 .content2 .member .card4 p {
+    width: 400px;
+    height: auto;
+    border-radius: 2px solid black;
+    margin-left: 10%;
+    margin-top: 0%;
+    font-size: 1.7rem;
+    line-height: 150%;
+}
+
+.container2 .content2 .member .card4 .arrow {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-left: 20rem;
+    margin-top: 0%;
+}
+
+.container2 .content2 .member .card4:hover {
+    transform: translateY(-10px);
+}
+
+.container2 .content2 .member .card5 {
+    width: 910px;
+    height: 125px;
+    margin-bottom: 4%;
+    border-radius: 35px;
+    box-shadow: 6px 6px 10px -2px rgba(0, 0, 0, 0.7), -8px -8px 12px -2px rgba(255, 255, 255, 1);
+}
+
+.container2 .content2 .member .card5 .img {
+    width: 120px;
+    margin: 7% 25%;
+    border-radius: 100%;
+}
+
+.container2 .content2 .member .card5 p {
+    width: 400px;
+    height: auto;
+    border-radius: 2px solid black;
+    margin-left: 10%;
+    margin-top: 0%;
+    font-size: 1.7rem;
+    line-height: 150%;
+}
+
+.container2 .content2 .member .card5 .arrow {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-left: 20rem;
+    margin-top: 0%;
+}
+
+.container2 .content2 .member .card5:hover {
+    transform: translateY(-10px);
+}

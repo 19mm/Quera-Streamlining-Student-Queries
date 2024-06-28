@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+body {
+    background-color: #f2faff;
+}
+
+.container {
+    width: 1000px;
+    height: 600px;
+    margin: 4% 18%;
+    box-shadow: 6px 6px 12px -2px rgba(0, 0, 0, 1), -6px -6px 12px 4px rgba(255, 255, 255, 1);
+}
+
+.container .section1 {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}
+
+.section1-content {
+    padding: 40px 50px;
+}
+
+.section1-content h1 {
+    font-size: 3rem;
+    letter-spacing: 1px;
+    color: #02013c;
+}
+
+.section1-content hr {
+    margin-bottom: 3%;
+}
+
+.section1-content h3 {
+    font-size: 1.6rem;
+    margin: 5px 0;
+    color: #050292;
+}
+
+.section1-content .name {
+    width: 100%;
+    padding: 15px 0;
+    border-radius: 50px;
+    border: none;
+    background-color: #e0e3fa;
+    margin-bottom: 2%;
+    text-indent: 5%;
+    font-size: larger;
+}
+
+.section1-content .email {
+    width: 100%;
+    padding: 15px 0;
+    border-radius: 50px;
+    border: none;
+    background-color: #e0e3fa;
+    margin-bottom: 2%;
+    text-indent: 5%;
+    font-size: larger;
+}
+
+.section1-content .msg {
+    width: 100%;
+    padding: 15px 0;
+    border-radius: 25px;
+    border: none;
+    background-color: #e0e3fa;
+    margin-bottom: 5%;
+    text-indent: 5%;
+    font-size: larger;
+}
+
+.section1-content .btn {
+    width: 50%;
+    margin-bottom: -10%;
+    padding: 15px 0;
+    border-radius: 50px;
+    border: none;
+    background-image: linear-gradient(to right, #52ccf9, #050292);
+    font-size: 1.5rem;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.section1-content .btn:hover {
+    background-image: linear-gradient(to left, #52ccf9, #050292);
+}
+
+.section1-content .footer-icons .fa-brands {
+    width: 10%;
+    margin: 5% 2%;
+    color: #02013c;
+    font-size: 2rem;
+    padding: 10px 0px;
+    cursor: pointer;
+}
+
+.section1-content .footer-icons .fa-brands:hover {
+    color: #050292;
+    transform: translateY(-10px);
+}
