@@ -1,4 +1,5 @@
 **Quera: Streamlining Student Queries with Efficiency and Ease**
+
 This project Quera is a Students Query Management System, a web application designed to streamline the process of managing academic queries for students and administrators at a college or university.
 
 **Features**
